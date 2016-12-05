@@ -1,11 +1,11 @@
 Package: com.pxcex.bbm
 Name: bbm 
 Version: 0.0.1-22+debug
-Size: 8kb
+Size: 7596
 Architecture: iphoneos-arm
 Description: Kontak tidak akan melihat "sedang menulis pesan" saat mengetik, Kontak tidak akan pernah tahu telah membaca pesan mereka sampai agan membalas pesan, jadi bisa lebih santai balesnya, Tidak Ada Iklan di Timeline maupun Invite BBM jadi kelihatan Bersih, Unlimited Ping.
-Maintainer: pxcex pxcex@icloud.com
-Author: pxcex pxcex@icloud.com
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
 Section: Tweaks
 MD5sum:
 SHA1sum:
