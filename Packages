@@ -82,3 +82,27 @@ Author: pxcex <pxcex@icloud.com>
 Section: Tweaks
 MD5sum: dc3a60a2aae7617ea8ee53840450b5f5
 Filename: debs//com.pxcex.sing_0.0.1-1+debug_iphoneos-arm.deb
+
+Package: com.pxcex.muslimpropremium
+Name: Muslim Pro Premium
+Version: 0.0.1
+Size: 6154
+Architecture: iphoneos-arm
+Description: Unlock All Premium Member!!!
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: f0f2d17d05ae5c1a622ef6cd51dbbbcf
+Filename: debs//com.pxcex.muslimpropremium_0.0.1-1+debug_iphoneos-arm.deb
+
+Package: com.pxcex.socialfans
+Name: Social Fans Full
+Version: 0.0.1
+Size: 5332
+Architecture: iphoneos-arm
+Description: Social Fans: reports and analytics Semua Paket Terbuka.
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: e11ff62ea183949ec3eee8f0752a0837
+Filename: debs//com.pxcex.socialfans_0.0.1-1+debug_iphoneos-arm.deb
