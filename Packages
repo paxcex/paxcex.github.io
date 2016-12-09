@@ -106,3 +106,16 @@ Author: pxcex <pxcex@icloud.com>
 Section: Tweaks
 MD5sum: e11ff62ea183949ec3eee8f0752a0837
 Filename: debs//com.pxcex.socialfans_0.0.1-1+debug_iphoneos-arm.deb
+
+
+Package: com.pxcex.celldia
+Name: Redesign Cydia
+Version: 0.0.1
+Size: 29038
+Architecture: iphoneos-arm
+Description: Perubahan untuk aplikasi Cydia.
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: cf9b57e7b0357b81f4002c7532aa206a
+Filename: debs//com.pxcex.celldia_0.0~beta3_iphoneos-arm.deb
