@@ -1,36 +1,66 @@
 /*
-	Identity by HTML5 UP
-	html5up.net | @n33co
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* List */
+/* Type */
 
-	ul.icons li a {
-		-ms-behavior: url("assets/js/PIE.htc");
+	body {
+		color: #ffffff;
 	}
 
-		ul.icons li a:before {
-			text-align: center;
-			font-size: 26px;
-		}
+/* Button */
 
-/* Main */
-
-	#main {
-		-ms-behavior: url("assets/js/PIE.htc");
+	.button {
+		position: relative;
+		border: solid 1px !important;
 	}
 
-		#main .avatar img {
-			-ms-behavior: url("assets/js/PIE.htc");
+		.button.special {
+			border: none !important;
 		}
+
+/* Icon */
+
+	.icon.major {
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+		.icon.major:before {
+			font-size: 4em;
+			border: 0;
+		}
+
+/* Spotlight */
+
+	.spotlight .image {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+		.spotlight .image img {
+			position: relative;
+			-ms-behavior: url("assets/js/ie/PIE.htc");
+		}
+
+/* Features */
+
+	.features li {
+		width: 29%;
+	}
 
 /* Footer */
 
-	#footer {
-		color: #fff;
+	#footer > * {
+		width: 50%;
+		margin-left: 0;
 	}
 
-		#footer .copyright li {
-			border-left: solid 1px #fff;
-		}
+/* Main */
+
+	#main > .main > .image.main:first-child {
+		margin-top: 0;
+		margin-left: 0;
+		width: 100%;
+	}

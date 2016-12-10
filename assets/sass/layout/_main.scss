@@ -1,74 +1,99 @@
-@import '../libs/vars';
-@import '../libs/functions';
-@import '../libs/mixins';
-
 ///
-/// Identity by HTML5 UP
-/// html5up.net | @n33co
+/// Stellar by HTML5 UP
+/// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
 
 /* Main */
 
 	#main {
-		position: relative;
-		max-width: 100%;
-		min-width: 27em;
-		@include padding(4.5em, 3em);
+		@include color(invert);
+		border-radius: _size(border-radius-main);
 
-		background: _palette(bg);
-		border-radius: _size(border-radius);
-		cursor: default;
-		opacity: 0.95;
-		text-align: center;
+		> .main {
+			@include padding(5em, 5em);
+			border-top: solid 1px _palette(invert, border);
 
-		@include vendor('transform-origin', '50% 50%');
-		@include vendor('transform', 'rotateX(0deg)');
-		@include vendor('transition', (
-			'opacity #{_duration(main)} ease',
-			'transform #{_duration(main)} ease'
-		));
-
-		.avatar {
-			position: relative;
-			display: block;
-			margin-bottom: _size(element-margin);
-
-			img {
-				display: block;
-				margin: 0 auto;
-				border-radius: 100%;
-				box-shadow: 0 0 0 1.5em _palette(bg);
+			&:first-child {
+				border-top: 0;
 			}
 
-			&:before {
-				content: '';
-				display: block;
-				position: absolute;
-				top: 50%;
-				left: -3em;
-				width: calc(100% + 6em);
-				height: _size(border-width);
-				z-index: -1;
-				background: _palette(border);
+			> .image.main:first-child {
+				margin: -5em 0 5em -5em;
+				width: calc(100% + 10em);
+				border-top-right-radius: _size(border-radius-main);
+				border-top-left-radius: _size(border-radius-main);
+				border-bottom-right-radius: 0;
+				border-bottom-left-radius: 0;
+
+				img {
+					border-top-right-radius: _size(border-radius-main);
+					border-top-left-radius: _size(border-radius-main);
+					border-bottom-right-radius: 0;
+					border-bottom-left-radius: 0;
+				}
 			}
 		}
 
-		@include breakpoint(xsmall) {
-			min-width: 0;
-			width: 100%;
-			@include padding(4em, 2em);
+		@include breakpoint(large) {
+			> .main {
+				@include padding(4em, 4em);
 
-			.avatar {
-				&:before {
-					left: -2em;
+				> .image.main:first-child {
+					margin: -4em 0 4em -4em;
+					width: calc(100% + 8em);
+				}
+			}
+		}
+
+		@include breakpoint(medium) {
+			> .main {
+				@include padding(4em, 3em);
+
+				> .image.main:first-child {
+					margin: -4em 0 4em -3em;
+					width: calc(100% + 6em);
+				}
+			}
+		}
+
+		@include breakpoint(small) {
+			> .main {
+				@include padding(3em, 2em);
+
+				> .image.main:first-child {
+					margin: -3em 0 2em -2em;
 					width: calc(100% + 4em);
 				}
 			}
 		}
 
-		body.is-loading & {
-			opacity: 0;
-			@include vendor('transform', 'rotateX(15deg)');
+		@include breakpoint(xsmall) {
+			> .main {
+				@include padding(3em, 1.5em);
+
+				> .image.main:first-child {
+					margin: -3em 0 1.5em -1.5em;
+					width: calc(100% + 3em);
+				}
+			}
+		}
+
+		@include breakpoint(xxsmall) {
+			border-radius: 0;
+
+			> .main {
+				@include padding(2.5em, 1em);
+
+				> .image.main:first-child {
+					margin: -2.5em 0 1.5em -1em;
+					width: calc(100% + 2em);
+					border-radius: 0;
+
+					img {
+						border-radius: 0;
+					}
+				}
+			}
 		}
 	}
