@@ -1,0 +1,120 @@
+Package: com.pxcex.bbm
+Name: BBM Tweak
+Version: 0.0.1
+Size: 7596
+Architecture: iphoneos-arm
+Description: Kontak tidak akan melihat "sedang menulis pesan" saat mengetik, Kontak tidak akan pernah tahu telah membaca pesan mereka sampai agan membalas pesan, jadi bisa lebih santai balesnya, Tidak Ada Iklan di Timeline maupun Invite BBM jadi kelihatan Bersih, Unlimited Ping.
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: 35c88331d3f59173dba155b4570b71c9
+Filename: debs//com.pxcex.bbm_0.0.1-22+debug_iphoneos-arm.deb
+
+Package: com.pxcex.pathpremium
+Name: Path Premium
+Version: 0.0.1
+Size: 5776
+Architecture: iphoneos-arm
+Description: Full Premium Path, Download semua Sticker secara GRATIS, Download Filter Kamera GRATIS Enjoy!!!
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum:cbace571f9333a36c9423dfb16c2780f
+Filename: debs//com.pxcex.pathpremium_0.0.1-3+debug_iphoneos-arm.deb
+
+Package: com.pxcex.followers+premium
+Name: Followers+ Premium
+Version: 0.0.1
+Size: 5640
+Architecture: iphoneos-arm
+Description: GRATIS Total (Optional) Insights Pack, (Optional) Engagement Pack, Blocked Pack, Followers+ Pro, Followers+ Pro, (Optional) Facebook Pack, Pro Twitter Monitoring, Facebook Pro Monitoring Service, Followers+ Pro, Facebook Pro Monitoring Service. ENJOY!!!
+Maintainer: pxcex
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: 86f56d7a03ee6a3810a68b9b13fa2a38
+Filename: debs//com.pxcex.followers+premium_0.0.1-4+debug_iphoneos-arm.deb
+
+Package: com.pxcex.jooxpremium
+Name: JOOX Premium
+Version: 0.0.1
+Size: 7076
+Architecture: iphoneos-arm
+Description: VIP Music, Download Music, Kualitas Streaming Premium, DTS 2063, Enjoy Music
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: e4aa12fdf1b9b7e23b05984beeef4867
+Filename: debs//com.pxcex.jooxpremium.deb
+
+Package: com.pxcex.everalbumplus
+Name: Ever Album Plus
+Version: 0.0.1
+Size: 5338
+Architecture: iphoneos-arm
+Description: Backup Foto dengan Resolusi Tinggi dan pastinya Unlimited, Fitur premium lainya silahkan agan baca sendiri di websitenya www.ever.com/#ever-plus
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: c8ffe54e25177b02ef18923e93c582ca
+Filename: debs//com.pxcex.everalbumplus_0.0.1-2+debug_iphoneos-arm.deb
+
+Package: com.pxcex.vivavideovip
+Name: VivaVideo VIP
+Version: 0.0.1
+Size: 28432
+Architecture: iphoneos-arm
+Description: Semua Tema Gratis, Editing Video Tanpa Tanda Air (text Made With VivaVideo) dan Durasi Video Tanpa Batas
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: 5b965a90a503a21f5da104862449bb2e
+Filename: debs//com.pxcex.vivavideovip_1.0.0-9+debug_iphoneos-arm.deb
+
+Package: com.pxcex.sing
+Name: Sing! VIP
+Version: 0.0.1
+Size: 6120
+Architecture: iphoneos-arm
+Description: Akses Semua Fitur Sing! Karaoke Secara Gratis!!
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: dc3a60a2aae7617ea8ee53840450b5f5
+Filename: debs//com.pxcex.sing_0.0.1-1+debug_iphoneos-arm.deb
+
+Package: com.pxcex.muslimpropremium
+Name: Muslim Pro Premium
+Version: 0.0.1
+Size: 6154
+Architecture: iphoneos-arm
+Description: Unlock All Premium Member!!!
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: f0f2d17d05ae5c1a622ef6cd51dbbbcf
+Filename: debs//com.pxcex.muslimpropremium_0.0.1-1+debug_iphoneos-arm.deb
+
+Package: com.pxcex.socialfans
+Name: Social Fans Full
+Version: 0.0.1
+Size: 5332
+Architecture: iphoneos-arm
+Description: Social Fans: reports and analytics Semua Paket Terbuka.
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: e11ff62ea183949ec3eee8f0752a0837
+Filename: debs//com.pxcex.socialfans_0.0.1-1+debug_iphoneos-arm.deb
+
+Package: com.pxcex.adblock
+Name: Social Fans Full
+Version: 1.4.1
+Size: 20402
+Architecture: iphoneos-arm
+Description: Block Semua Iklan FIX!
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: 938a2e27ac132b65cd7bde0c1ba63918
+Filename: debs//com.pxcex.adblock_1.4.1_iphoneos-arm.deb
