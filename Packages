@@ -1,0 +1,140 @@
+Package: com.pxcex.bbm
+Name: BBM Tweak
+Version: 0.0.1
+Size: 7596
+Architecture: iphoneos-arm
+Description: Kontak tidak akan melihat "sedang menulis pesan" saat mengetik, Kontak tidak akan pernah tahu telah membaca pesan mereka sampai agan membalas pesan, jadi bisa lebih santai balesnya, Tidak Ada Iklan di Timeline maupun Invite BBM jadi kelihatan Bersih, Unlimited Ping.
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: 35c88331d3f59173dba155b4570b71c9
+SHA1sum: 94728a6c30afa3d12965f86036214944e69aa91f
+SHA256sum: c65f8449ffde0ecaf00dd4fbcda8df59f5e19815e21087ac10d0cf85be4ecd18
+Filename: debs//com.pxcex.bbm_0.0.1-22+debug_iphoneos-arm.deb
+
+Package: com.pxcex.pathpremium
+Name: Path Premium
+Version: 0.0.1
+Size: 5776
+Architecture: iphoneos-arm
+Description: Full Premium Path, Download semua Sticker secara GRATIS, Download Filter Kamera GRATIS Enjoy!!!
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum:cbace571f9333a36c9423dfb16c2780f
+SHA1sum: 74676c7e2d8b75b533f3d8998276bd800a50b855
+SHA256sum: 3053951e866e18caf021c3131220bceb3aa2044abb6a92b1c793886812be2549
+Filename: debs//com.pxcex.pathpremium_0.0.1-3+debug_iphoneos-arm.deb
+
+Package: com.pxcex.followers+premium
+Name: Followers+ Premium
+Version: 0.0.1
+Size: 5640
+Architecture: iphoneos-arm
+Description: GRATIS Total (Optional) Insights Pack, (Optional) Engagement Pack, Blocked Pack, Followers+ Pro, Followers+ Pro, (Optional) Facebook Pack, Pro Twitter Monitoring, Facebook Pro Monitoring Service, Followers+ Pro, Facebook Pro Monitoring Service. ENJOY!!!
+Maintainer: pxcex
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: 86f56d7a03ee6a3810a68b9b13fa2a38
+SHA1sum: 41a646e838e53dc04664b03040b239d0ab510d54
+SHA256sum: 104653ce57bf1e3aa37547866d50f9f6ed0abc9ead8dea1174922ae5ed2334b1
+Filename: debs//com.pxcex.followers+premium_0.0.1-4+debug_iphoneos-arm.deb
+
+Package: com.pxcex.jooxpremium
+Name: JOOX Premium
+Version: 0.0.1
+Size: 7076
+Architecture: iphoneos-arm
+Description: VIP Music, Download Music, Kualitas Streaming Premium, DTS 2063, Enjoy Music
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: e4aa12fdf1b9b7e23b05984beeef4867
+SHA1sum: 86e0153123cf2a99176825b6d9b59e6ec9d7e274
+SHA256sum: acc6589a1b2946be64c2e60172f1b9edc15c294491564708353e4d0b71e93d8f
+Filename: debs//com.pxcex.jooxpremium.deb
+
+Package: com.pxcex.everalbumplus
+Name: Ever Album Plus
+Version: 0.0.1
+Size: 5338
+Architecture: iphoneos-arm
+Description: Backup Foto dengan Resolusi Tinggi dan pastinya Unlimited, Fitur premium lainya silahkan agan baca sendiri di websitenya www.ever.com/#ever-plus
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: c8ffe54e25177b02ef18923e93c582ca
+SHA1sum:13ae763f276c8de835e15c2c85b6319efd59cb17
+SHA256sum: bdeea1e93425f81dcac9b2bca02d3658940b0ff54c5b355e3c24fe148f3ac34c
+Filename: debs//com.pxcex.everalbumplus_0.0.1-2+debug_iphoneos-arm.deb
+
+Package: com.pxcex.vivavideovip
+Name: VivaVideo VIP
+Version: 0.0.1
+Size: 28432
+Architecture: iphoneos-arm
+Description: Semua Tema Gratis, Editing Video Tanpa Tanda Air (text Made With VivaVideo) dan Durasi Video Tanpa Batas
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: 5b965a90a503a21f5da104862449bb2e
+SHA1sum: eb11cdb2c0d71a053c674510254031cb539d7553
+SHA256sum: 4d6455844c9118263c8f6369d5ed8fdc83bd14898c8d0ba062c728e6a8241770
+Filename: debs//com.pxcex.vivavideovip_1.0.0-9+debug_iphoneos-arm.deb
+
+Package: com.pxcex.sing
+Name: Sing! VIP
+Version: 0.0.1
+Size: 6120
+Architecture: iphoneos-arm
+Description: Akses Semua Fitur Sing! Karaoke Secara Gratis!!
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: dc3a60a2aae7617ea8ee53840450b5f5
+SHA1sum: fb44903ae3c90692351491bfeff3e4c68cd7f6ce
+SHA256sum : 5bd52313a7ddfbafb0bff0918d566fbf6455e73f6aae9db99029d6bd87f2a0ad
+Filename: debs//com.pxcex.sing_0.0.1-1+debug_iphoneos-arm.deb
+
+Package: com.pxcex.muslimpropremium
+Name: Muslim Pro Premium
+Version: 0.0.1
+Size: 6154
+Architecture: iphoneos-arm
+Description: Unlock All Premium Member!!!
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: f0f2d17d05ae5c1a622ef6cd51dbbbcf
+SHA1sum: ddb3774bcc28a527ef48977f59e4d4e2a21ad2a2
+SHA256sum: 769c20ba93ef25e1fa33fdeb9bce4995d47a216d70c01c33744ec27be03c85ce
+Filename: debs//com.pxcex.muslimpropremium_0.0.1-1+debug_iphoneos-arm.deb
+
+Package: com.pxcex.socialfans
+Name: Social Fans Full
+Version: 0.0.1
+Size: 5332
+Architecture: iphoneos-arm
+Description: Social Fans: reports and analytics Semua Paket Terbuka.
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: e11ff62ea183949ec3eee8f0752a0837
+SHA1sum: 6c6b809be7f015a3e89480658cde53655d4b5586
+SHA256sum: 585af92c472259669ec2ba2846d1e422e7dd8c8aa4a5fb7036f462319b81c30a
+Filename: debs//com.pxcex.socialfans_0.0.1-1+debug_iphoneos-arm.deb
+
+Package: com.pxcex.SoundCloud
+Name: SoundCloud Plus
+Version: 0.0.1
+Size: 6440
+Architecture: iphoneos-arm
+Description: Social Fans: reports and analytics Semua Paket Terbuka.
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+MD5sum: 921f623535526f135ffe91b6057a3a09
+SHA1sum: ace1ed7c5d6f48adecb89e764dacbb3338958f8e
+SHA256sum: 72a6206cb30e1849937643ee0a473298c7cec6c263568da0dde38376dabeb686
+Filename: debs//SoundCloud.deb
