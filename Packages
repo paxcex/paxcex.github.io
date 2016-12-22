@@ -138,3 +138,22 @@ MD5sum: be08ea98994612ed632e0e0619f4eec3
 SHA1sum: 06f70f15e2952d3b2ed0bd26c956a88e96d5060e
 SHA256sum: b82725ac44d73d85c26b8485d29838dae952d0f87e1b2dc1b300cc2bd49f8a76
 Filename: debs//com.pxcex.SoundCloud_0.0.1-4+debug_iphoneos-arm.deb
+
+Package: com.pxcex.freesticker
+Architecture: iphoneos-arm
+Version: 0.0.1
+Size: 4884
+Maintainer: pxcex <pxcex@icloud.com>
+Depends: mobilesubstrate
+Filename: .//com.pxcex.freesticker_1.0.1_iphoneos-arm.deb
+MD5sum: ef9d2d02c74ab8a5b9b016189ccd9829
+SHA1: b4e5469e3a1463b965d8acd8f47b1fd5d4cea2aa
+SHA256: fb176eb3d12553c44b53676ab3f0148e5a2561119b21d6df06c126fa90ee9c3b
+Section: Tweaks
+Description: All Sticker Free
+Author: pxcex <pxcex@icloud.com>
+Depiction: https://paxcex.github.io/beta/depictions/com.pxcex.freesticker/index.html
+Name: BBM Free Sticker
+
+
+
