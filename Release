@@ -6,6 +6,3 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Cydia Tweak
-
-
-/Users//Desktop/TSS/tsschecker_macos -d iPhone6,1 -e 6F5C8BC9AF0 -i 10.1.1 --buildid 14B150 -s
