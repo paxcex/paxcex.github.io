@@ -13,7 +13,7 @@ Depiction: https://paxcex.github.io/depictions/com.pxcex.jooxpremium/index.html
 
 Package: com.pxcex.everalbumplus
 Name: Ever Album Plus
-Version: 1.0.1
+Version: 1.0.0
 Size: 60154
 Architecture: iphoneos-arm
 Description: Ever - Photo Backup & Storage Unlimited. Fuck ICLOUD Drive.
@@ -1573,3 +1573,18 @@ Size: 6638
 Filename: debs//com.pxcex.bannercopied_0.0.2_iphoneos-arm.deb
 MD5sum: 1118480d673dca0dd4d53474786fe1c8
 Depiction: https://paxcex.github.io/depictions/com.pxcex.bannercopied/index.html
+
+Package: com.pxcex.classicfilter
+Name: ClassicFilter12
+Depends: mobilesubstrate, firmware(>=12.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable old photo filters for stock Photo App.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 2866
+Filename: debs//com.pxcex.classicfilter_0.0.2_iphoneos-arm.deb
+MD5sum: 609047c2b1e0434025a8d0c5d0768ed0
+Depiction: https://paxcex.github.io/depictions/com.pxcex.classicfilter/index.html
+
