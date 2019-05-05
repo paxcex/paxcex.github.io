@@ -1,0 +1,1986 @@
+Package: com.pxcex.jooxpremium
+Name: Joox Premium
+Version: 4.0.4
+Size: 64576
+Architecture: iphoneos-arm
+Description: VIP Music, Download songs and listen to them Offline (320kbps) HI-FI, DTS Active, Enjoy Music!
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+MD5sum: 8c70d27d61fe5530d7ea5546861f3856
+SHA1sum: a11d9dc7ecb742bc23069a34da1727e988bdf6f4
+SHA256sum : da970af4ae773671ab0ed28124cfd9d755d231ecd56a12fa9eac3bf0c7225685
+Filename: debs//com.pxcex.jooxpremium_4.0.5_iphoneos-arm.deb
+Depiction: https://paxcex.github.io/depictions/com.pxcex.jooxpremium/index.html
+
+Package: com.pxcex.everalbumplus
+Name: Ever Album Plus
+Version: 1.0.0
+Size: 60154
+Architecture: iphoneos-arm
+Description: Ever - Photo Backup & Storage Unlimited. Fuck ICLOUD Drive.
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+SHA1sum: 069c1da55840811c1cfb9ea8c367ac566c804732
+SHA256sum : 69141fe97e91d78c9183793623cea38fddefaa47abacad96b6cd236f4235f95a
+MD5sum: cea0a35870ae19efcdb2f884c70dcae3
+Filename: debs//com.pxcex.everalbumplus_1.0.2_iphoneos-arm.deb
+
+Package: com.pxcex.vivavideovip
+Name: VivaVideo VIP
+Version: 7.0.3
+Size: 63520
+Architecture: iphoneos-arm
+Description: VivaVideo VIP for Free!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+SHA1sum: e1517f214a4714ce4b7ec83909bb8f217aac0b7c
+SHA256sum : 896901776ef836aaeb48d0cdc659173c37991e4889111dd79a0d2e50128462bb
+MD5sum: bf7a2f360f7cb67a62e9030c8bb2dd7d
+Filename: debs//com.pxcex.vivavideovip_7.0.4_iphoneos-arm.deb
+Depiction: https://paxcex.github.io/depictions/com.pxcex.vivavideovip/index.html
+
+Package: com.pxcex.sing
+Name: Sing! VIP
+Version: 0.0.2
+Size: 57686
+Architecture: iphoneos-arm
+Description: Akses Semua Fitur Sing! Karaoke Secara Gratis!!
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+MD5sum: 518a7b4b9b629e51a491a93790ca28cd
+SHA1sum: aa43e9ca787ea279320d722af04b0d2519f96a7f
+SHA256sum : edec8279cf95b42fc6ad448632b643ebf82cb4137be2f8e28f89a511aeb276fb
+Filename: debs//com.pxcex.sing_0.0.3_iphoneos-arm.deb
+Depiction: https://paxcex.github.io/depictions/com.pxcex.sing/index.html
+
+Package: com.pxcex.boom
+Name: Boom Unlock Megical Effects Pack
+Depends: mobilesubstrate
+Version: 0.0.1
+Size: 58182
+Architecture: iphoneos-arm
+Description: Unlock Trial 5 Day & Unlock Megical Effects Pack
+Maintainer: pxcex <pxcex@icloud.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.boom/index.html
+Filename: debs//com.pxcex.boom_0.0.2_iphoneos-arm.deb
+MD5sum: c20405d17754d8692496207d1ed90c8b
+SHA1: 0a352f67b7166ce011408c2ca94951b133e013e7
+SHA256: 806c54d78bb809b4f5fba13be7bda74255e790cf179ce81bd05b0e5ba5d7aca0
+Installed-Size: 272
+
+Package: com.pxcex.fastercharging
+Name: Faster Charging
+Depends: mobilesubstrate, preferenceloader, firmware(>=9.0)
+Version: 0.0.1~beta3
+Architecture: iphoneos-arm
+Description: Faster Charger, Always Save Power Mode & Faster Animation! Configure option from Settings!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.fastercharging/index.html
+Size: 91804
+Filename: debs//com.pxcex.fastercharging_0.0.1~beta4_iphoneos-arm.deb
+MD5sum: f76794721ff40e40a647dc6ce6ee0e20
+
+Package: com.pxcex.pip
+Name: Picture-in-Picture
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0
+Architecture: iphoneos-arm
+Description: viewing video can be seen on a small scale while doing other things such as the features of OS X Sierra.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.pip/index.html
+Size: 74248
+Filename: debs//com.pxcex.pip_2.0_iphoneos-arm.deb
+MD5sum: 68e69e7da915dcd7dac66734fb674b7a
+SHA1: 10a9646f880ed8233c614901ff6502b7349d7fea
+SHA256: d7af0c1d5cd36894f91fca34144447c29b2c2770fb13e2989c01e84da4ca7e18
+
+Package: com.pxcex.custommemessage
+Name: Custome Messages
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Show Percentage and Hide Typing Indicator
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.custommemessage/index.html
+Size: 69114
+Filename: debs//com.pxcex.custommemessage_2.0.0_iphoneos-arm.deb
+MD5sum: e45b7e74761e760d69c83aa17d9401fe
+SHA1: 7f23febfdb2b8adc2f48d5a163735fbf410831cc
+SHA256: f14844b9bb9f062b52f7cbc35a5cbe8e9301517b4c56264323839812dce9f630
+
+Package: com.pxcex.apppercent
+Name: App Percent
+Depends: mobilesubstrate, preferenceloader,
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: AppStore Installation in Percent (%) and Device Notification when an app download is finished. Configure option from Settings!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.apppercent/index.html
+Size: 16556
+Filename: debs//com.pxcex.apppercent_2.0.0_iphoneos-arm.deb
+MD5sum: b8ded2ac9fabd126e25716cde3345295
+SHA1: 91d374f284e94cfc5b843b628dd71245cf24bff5
+SHA256: 74d54c34b0b21c623e025a08777a1d0d9e104c07a14da2d8d7d73d9794ca6cd7
+
+Package: com.pxcex.carrirartistmusic
+Name: Carrier Artist Music
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Custome carrier & changing carrier text to now-playing artist name
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.carrirartistmusic/index.html
+Size: 133150
+Filename: debs//com.pxcex.carrirartistmusic_2.0.0_iphoneos-arm.deb
+MD5sum: b4003c115f2ebec5350a750fdf1ba660
+
+Package: com.pxcex.customescreenshot
+Name: Custome Screenshot Flash
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A tweak that enables you to change your screenshot animation in iOS!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 59654
+Filename: debs//com.pxcex.customescreenshot_2.0.0_iphoneos-arm.deb
+MD5sum: f31ea81d8244302ddb6c95fd376229bf
+
+Package: com.pxcex.blackkeyboard
+Name: BlackKeyboard
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: System Wide Dark Keyboard.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.blackkeyboard/index.html
+Size: 74030
+Filename: debs//com.pxcex.blackkeyboard_2.0.0_iphoneos-arm.deb
+MD5sum: 01faf94eddda4c96027eda699d1077c6
+
+Package: com.pxcex.customreachability
+Name: Custom reachability
+Depends: mobilesubstrate, preferenceloader, firmware(>=9.0)
+Version: 1.0.0~BETA
+Architecture: iphoneos-arm
+Description: ReachApp for iOS 9
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.customreachability/index.html
+Size: 279962
+Filename: debs//com.pxcex.customreachability_2.0.0~BETA_iphoneos-arm.deb
+MD5sum: 2548e529be3bf0f8f1b9d952d97a175f
+
+Package: com.pxcex.facetunevip
+Name: Facetune2 VIP
+Depends: mobilesubstrate
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Unlock Feature VIP without Purchase.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.facetunevip/index.html
+Size: 57060
+Filename: debs//com.pxcex.facetunevip_1.0.4_iphoneos-arm.deb
+MD5sum: f7b6b5f70668ba9f0bebbca4a7a823b1
+SHA1: 1d6375907bfdf59de76d4833b0268ae48c40f140
+SHA256: 162d7c49f4ead1938c5d6b32a1f15e3385c8b3eb90867f717922b08716f8264e
+
+Package: com.pxcex.shockbreaker
+Name: Shockbreaker
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: makes animations springy. when switching from different pages in any app, it give the animation a bounce. like shockbreaker motorcycle :p
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.shockbreaker/index.html
+Size: 64268
+Filename: debs//com.pxcex.shockbreaker_0.0.2_iphoneos-arm.deb
+MD5sum: 9588c92f15fd8603ac47b7551308d8f8
+
+Package: com.pxcex.volocohack
+Name: Voloco Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlock All Purchases Effect!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.volocohack/index.html
+Size: 57372
+Filename: debs//com.pxcex.volocohack_0.0.2_iphoneos-arm.deb
+MD5sum: d1ae4585498639350f7920767c66c12d
+
+Package: com.pxcex.spiral
+Name: Spiral
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Open and Close Folder with Animation!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.spiral/index.html
+Size: 3072
+Filename: debs//com.pxcex.spiral_0.0.2_iphoneos-arm.deb
+MD5sum: cfd4695981d316184c72c982854d6e45
+
+Package: com.pxcex.nccolor10
+Name: NCColor10
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Custom Notification Center Colors.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.nccolor10/index.html
+Size: 20132
+Filename: debs//com.pxcex.nccolor10_2.0.0_iphoneos-arm.deb
+MD5sum: 23204dbbb3a9bb722829f9baaeddc54c
+
+Package: com.pxcex.lshidecamera10
+Name: LS Hide Camera 10
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bye Camera from the Lockscreen!!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.nccolor10/index.html
+Size: 3412
+Filename: debs//com.pxcex.lshidecamera10_0.0.2_iphoneos-arm.deb
+MD5sum: 2c346c01a602012af03807cc7834baf9
+
+Package: com.pxcex.lsfingerprintfaster
+Name: LS Fingerprint Faster
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: After opening the lockscreen via fingerprint. bye Press Home to open.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.lsfingerprintfaster/index.html
+Size: 3466
+Filename: debs//com.pxcex.lsfingerprintfaster_0.0.2_iphoneos-arm.deb
+MD5sum: 977940cca6f6aaca917d885517f3d20e
+
+Package: com.pxcex.cameramode10
+Name: Camera Mode 10
+Depends: mobilesubstrate
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description: Native Potrait Mode and All Features from the iPhone 7 Plus in any older iPhone iOS 10.1
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.cameramode10/index.html
+Size: 3772
+Filename: debs//com.pxcex.cameramode10_2.0.2_iphoneos-arm.deb
+MD5sum: b7d5b7eca9ff3cacf3e4e83f3bfc447f
+
+Package: com.pxcex.DisplayWeather10
+Name: DisplayWeather 10
+Depends: mobilesubstrate
+Version: 2.0.4
+Architecture: iphoneos-arm
+Description: Enable Display Weather on Lockscreen and Notification Center.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.DisplayWeather10/index.html
+Size: 4030
+Filename: debs//com.pxcex.DisplayWeather10_2.0.5_iphoneos-arm.deb
+MD5sum: 232c4005c5a7042335c2e373e41957a2
+
+Package: com.pxcex.drumpads24
+Name: Drum Pads 24 Hack
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: All Preset Purchased Free & Remove Ads!!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.drumpads24/index.html
+Size: 58008
+Filename: debs//com.pxcex.drumpads24_0.0.3_iphoneos-arm.deb
+MD5sum: 52cf3d99f8338650b530a250611a4c8e
+SHA1: 0ff3a94b1fbbe5f036dab317ccba91a2ed6e1f3a
+SHA256: 69f0207d3a3b437c411210eb768a6216ad3ed3da710c40fe3619ef5bd471c2e3
+
+Package: com.pxcex.transpotlight
+Name: Transpotlight
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Background Transparent in Search Header Spotlight.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.transpotlight/index.html
+Size: 3204
+Filename: debs//com.pxcex.transpotlight_0.0.3_iphoneos-arm.deb
+MD5sum: 699a4f3809eea6d6b7f4f250fb89fedb
+
+Package: com.pxcex.riplprohack
+Name: Ripl Pro Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: RIPL PRO SUBSCRIPTION FREE!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.riplprohack/index.html
+Size: 58178
+Filename: debs//com.pxcex.riplprohack_0.0.2_iphoneos-arm.deb
+MD5sum: 713c4af2a5073d7b25147601ea1136f2
+SHA1: 4c423a31497cccca496ca704db5e2034a9fd82fe
+SHA256: cad3042e28fa181c6971ce7319d7ffa943b66db07f501baaa546e4b9e7c6a7ac
+
+Package: com.pxcex.scrollablehaptic
+Name: Scrollable Haptic
+Depends: mobilesubstrate, ws.hbang.common, applist
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Haptic Scrolling for all sorts of scrolling windows! alternative tweak Haptic Scroll. this is free :)
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.scrollablehaptic/index.html
+Size: 17164
+Filename: debs//com.pxcex.scrollablehaptic_0.0.2_iphoneos-arm.deb
+MD5sum: ef6996fa1bd1afc94b763b50b0c23ed6
+
+Package: com.pxcex.swipebanners
+Name: Swipe Banners
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Notification banner will remain until swipe up! Configure options from Settings.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.swipebanners/index.html
+Size: 15916
+Filename: debs//com.pxcex.swipebanners_2.0.0_iphoneos-arm.deb
+MD5sum: 758a374f00b985eddc40764d679516ef
+
+Package: com.pxcex.teloletcharging
+Name: TeloletCharging 10
+Depends: mobilesubstrate
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: Telolet Charging for iOS 10. lets you to completely customize what happens when you plug in your device. Configure options from settings
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.teloletcharging/index.html
+Size: 382354
+Filename: debs//com.pxcex.teloletcharging_2.0.1_iphoneos-arm.deb
+MD5sum: 53c41a91b8ef161bbb8bb1b89488d32c
+
+Package: com.pxcex.nakdek10
+Name: NakDek 10
+Depends: mobilesubstrate, firmware (>= 10.0), org.thebigboss.libcolorpicker, ws.hbang.common
+Version: 3.0.0
+Architecture: iphoneos-arm
+Description: A plugin iOS system optimization simple and practical (Enable Internal Apple)
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.nakdek10/index.html
+Size: 401902
+Filename: debs//com.pxcex.nakdek10_3.0.1-1_iphoneos-arm.deb
+MD5sum: 7171ee609e919bc24bae8ff1d2754baa
+
+Package: com.pxcex.kbnopredictivebackground
+Name: KB - NoPredictiveBackground
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Keyboard Predictive No Background.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.kbnopredictivebackground/index.html
+Size: 3168
+Filename: debs//com.pxcex.kbnopredictivebackground_0.0.2_iphoneos-arm.deb
+MD5sum: e28b7a4918417cdbedc00929edbe4935
+
+Package: com.pxcex.taptapstatusbar
+Name: TapTap Statusbar
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Tap Manual Show or Hide Statusbar. Competible ios 9 & 10.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.taptapstatusbar/index.html
+Size: 16170
+Filename: debs//com.pxcex.taptapstatusbar_0.0.2_iphoneos-arm.deb
+MD5sum: 8b83d712ebe90f80dee7a6c8c6e8140d
+
+Package: com.pxcex.sendprogress
+Name: SendProgress
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Shows a progress for sending messages. For IOS 10 Only.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 4006
+Filename: debs//com.pxcex.sendprogress_0.0.2_iphoneos-arm.deb
+MD5sum: e5c27990aad53b7b354c85ed72180b33
+
+Package: com.pxcex.enabledethernet
+Name: Enabled Ethernet
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable Ethernet in Settings For IOS 10.2
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.enabledethernet/index.html
+Size: 3032
+Filename: debs//com.pxcex.enabledethernet_0.0.2_iphoneos-arm.deb
+MD5sum: 326375f1d3073d9b3426c354a45d9fd2
+
+Package: com.pxcex.disablegamecenterbanner
+Name: Disable GameCenter Banner
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disable Banner Game Center
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.disablegamecenterbanner/index.html
+Size: 3266
+Filename: debs//com.pxcex.disablegamecenterbanner_0.0.2_iphoneos-arm.deb
+MD5sum: f40ace86ce6091b7166cfcce8b649063
+
+Package: com.pxcex.icondock+
+Name: IconDock+
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simple tweak that adds five row to your dock. Simply drag and drop your desired icons on your to use this tweak. Competible IOS 10
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 3122
+Filename: debs//com.pxcex.icondock+_0.0.2_iphoneos-arm.deb
+MD5sum: 194e98379d79993118eb0723503d2bd0
+Depiction: https://paxcex.github.io/depictions/com.pxcex.icondock+/index.html
+
+Package: com.pxcex.colordockplus
+Name: ColorDock+
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Version: 0.0.6
+Architecture: iphoneos-arm
+Description: Customise color of your dock! Competible IOS 10.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 18370
+Filename: debs//com.pxcex.colordockplus_0.0.7-1_iphoneos-arm.deb
+MD5sum: b9e709a62cc7adcf93f3b50f91349112
+Depiction: https://paxcex.github.io/depictions/com.pxcex.colordockplus/index.html
+
+Package: com.pxcex.forcecolor10
+Name: ForceColor 10
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware (>= 10.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Change your 3D Touch menus border and background tint color. Competible IOS 10.
+Maintainer: pxcex
+Author: pxcex
+Size: 21080
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.forcecolor10_0.0.2-1_iphoneos-arm.deb
+MD5sum: 003611ac4fc53630499440df6adaacbf
+Depiction: https://paxcex.github.io/depictions/com.pxcex.forcecolor10/index.html
+
+Package: com.pxcex.shotbanner10
+Name: ShotBanner 10
+Depends: mobilesubstrate, firmware (>= 10.0), net.limneos.libbulletin
+Version: 0.0.5
+Architecture: iphoneos-arm
+Description: Competible IOS 10 only, simple tweak that presents options when a screenshot is taken and Replace ScreenFlash with Notifications Banner.
+Maintainer: pxcex
+Author: pxcex
+Size: 65262
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.shotbanner10_0.0.6_iphoneos-arm.deb
+MD5sum: 54e9b534483dcdde20479402915e33d7
+Depiction: https://paxcex.github.io/depictions/com.pxcex.shotbanner10/index.html
+
+Package: com.pxcex.bordericonplus
+Name: BorderIcon+
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.chpwn.iconsupport
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Customise color of your border color Icon, Folder, Force Touch and Badges!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 72800
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.bordericonplus_1.0.1-1_iphoneos-arm.deb
+MD5sum: 354e0f410b88fc92a81c8a1a762fc577
+Depiction: https://paxcex.github.io/depictions/com.pxcex.bordericonplus/index.html
+
+Package: com.pxcex.kotak10
+Name: Kotak10
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: No Bubble for Lockscreen, Force Touch, Notifications Center, Banners, Widgets, AlertView and etc.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 11664
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.kotak10_0.0.3_iphoneos-arm.deb
+MD5sum: 0d0b1ab0626b9c5b7493377dcbd301b9
+Depiction: https://paxcex.github.io/depictions/com.pxcex.kotak10/index.html
+
+Package: com.pxcex.kimcil10
+Name: ColorKimcil 10
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Customise color include Notification Center, Lockscreen, Date NC/LS and Banner!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 78344
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.kimcil10_0.0.2-1_iphoneos-arm.deb
+MD5sum: dc92747546141da2e5da6951a8e924f9
+Depiction: https://paxcex.github.io/depictions/com.pxcex.kimcil10/index.html
+
+Package: com.pxcex.notifycencored
+Name: NotifyCencored
+Depends: mobilesubstrate
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: simple tweak that allows you to censor the notifications message on banner Notification Center / Lockscreen. Include (iMessages, Gmail, WhatsApp, Facebook Messenger, Stock Mail.)
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 35390
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.notifycencored_0.0.4_iphoneos-arm.deb
+MD5sum: b393a676d232a53869399505532d78cb
+Depiction: https://paxcex.github.io/depictions/com.pxcex.notifycencored/index.html
+
+Package: com.pxcex.zvooqmusicpremium
+Name: Zvooq Music Premium
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Zvooq: Free Music for iPhone and Playlists. Full Premium.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 3224
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.zvooqmusicpremium_0.0.2_iphoneos-arm.deb
+MD5sum: f007b6907724bc7a33c8bfd88ff3c4f3
+Depiction: https://paxcex.github.io/depictions/com.pxcex.zvooqmusicpremium/index.html
+SHA1: 71bdbd3ee9c61289d62ba167108a6c5bdfade592
+SHA256: 80390f3455d31dcf4467c8970dbb888ecf4b5cdacd92044c2523c2cda89e0c56
+
+Package: com.pxcex.ccnofloatingplus
+Name: CCNoFloating+
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: No floating Control Center, makes it come up just like to old one, no bouncing to the side or so. works with all tweaks Control Center. including Kotak10
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 14092
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.ccnofloatingplus_0.0.4_iphoneos-arm.deb
+MD5sum: d80fe91d5b18196d3821c77631df4f54
+Depiction: https://paxcex.github.io/depictions/com.pxcex.ccnofloatingplus/index.html
+
+Package: com.pxcex.hudplayer
+Name: HUDPlayer
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: change the stock volume HUD with banner metadata song.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 30232
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.hudplayer_2.0.1_iphoneos-arm.deb
+MD5sum: 3da10ca6557649f443ebed24e1901008
+Depiction: https://paxcex.github.io/depictions/com.pxcex.hudplayer/index.html
+SHA1: 84271ea65ed11d5fd508f44ef28cc83cd5a3d6cc
+SHA256: 351bfa25a6bd0a5c6c69b8adee14be7cab07a8edebb4166187b2c67d3fb60e63
+
+Package: com.pxcex.customizesheets
+Name: CustomizeSheets 10
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: CustomizeSheets 10 allows us to create any custom Action Sheet. lets you (Edge to Edge, Hide Separators, Hide Cancel Button)
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 14376
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.customizesheets_0.0.2_iphoneos-arm.deb
+MD5sum: 4e20d564a11140109e6048a0d72f216d
+Depiction: https://paxcex.github.io/depictions/com.pxcex.customizesheets/index.html
+
+Package: com.pxcex.mimohack
+Name: Mimo Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Mimo: Learn to code on the go. Unlock Premium!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 64736
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.mimohack_0.0.2_iphoneos-arm.deb
+MD5sum: 2affeaa62343206f401bc65754eff4ca
+Depiction: https://paxcex.github.io/depictions/com.pxcex.mimohack/index.html
+SHA1: 64acd3d5c6a108d0f1d079da99524b5e6b8c5afb
+SHA256: f3fa7eb61527dc808c62bc5e9051caabfd987f58e35fd7a00eb12512d3cf3d42
+
+Package: com.pxcex.smallbar
+Name: Smallbar
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Puts navigation bars on a smallbar and rainbow colors.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 13970
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.smallbar_0.0.2_iphoneos-arm.deb
+MD5sum: d6af8c60abc60aad7dffa2c0f8fee844
+Depiction: https://paxcex.github.io/depictions/com.pxcex.smallbar/index.html
+
+Package: com.pxcex.cloky
+Name: Clocky
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A simple tweak Replacement LS Clock.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 16778
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.cloky_0.0.2_iphoneos-arm.deb
+MD5sum: e59a135b40413dd79509021df061c070
+Depiction: https://paxcex.github.io/depictions/com.pxcex.cloky/index.html
+
+Package: com.pxcex.iconborder
+Name: IconBorder
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Customise color of your border color Icon.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 20716
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.iconborder_0.0.2-1_iphoneos-arm.deb
+MD5sum: 1f7e2adab220e8558c357825f2151346
+Depiction: https://paxcex.github.io/depictions/com.pxcex.iconborder/index.html
+
+Package: com.pxcex.pulltorefresh
+Name: PullToRefresh 10
+Depends: mobilesubstrate
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: a simple Tweak Pull To Refresh effect to the mobile safari app (similar to app twitter, facebook, instagram )
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 6564
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.pulltorefresh_0.0.4_iphoneos-arm.deb
+MD5sum: 91d893373a126e95f39db882326ad1fc
+Depiction: https://paxcex.github.io/depictions/com.pxcex.pulltorefresh/index.html
+
+Package: com.pxcex.iconshadow
+Name: IconShadow
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: icon shadow with random color.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 20220
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.iconshadow_0.0.2_iphoneos-arm.deb
+MD5sum: 83ccaaf1176181f0d45235b336927d23
+Depiction: https://paxcex.github.io/depictions/com.pxcex.iconshadow/index.html
+
+Package: com.pxcex.hudvibrate
+Name: HUDVibrate
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: create a vibration when the volume is pressed
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 25268
+Filename: debs//com.pxcex.hudvibrate_0.0.2_iphoneos-arm.deb
+MD5sum: 8f25a58c2485bead074815129471b866
+
+Package: com.pxcex.selectcolor
+Name: SelectColor
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: a simple tweak random color for text selector.
+Maintainer: pxcex
+Author: pxcex
+Size: 3506
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.selectcolor_0.0.2_iphoneos-arm.deb
+MD5sum: 7c67b230f87895a5969a7f503b0e1948
+Depiction: https://paxcex.github.io/depictions/com.pxcex.selectcolor/index.html
+
+Package: com.pxcex.musically
+Name: Musical.ly Downloaded
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Adds a download button for iOS App "musical.ly". (No Watermark)
+Maintainer: pxcex
+Author: pxcex
+Size: 14642
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.musically_0.0.2_iphoneos-arm.deb
+MD5sum: faded66e8d58ee13cef58f10973b55ae
+Depiction: https://paxcex.github.io/depictions/com.pxcex.musically/index.html
+
+Package: com.pxcex.runnintendo
+Name: RunNintendo
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: IOS tweak that allows running All Game Nintendo (Fire Emblem Heroes, Miitomo, Super Mario Run) on jailbroken devices
+Maintainer: pxcex
+Author: pxcex
+Size: 4270
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.runnintendo_0.0.2_iphoneos-arm.deb
+MD5sum: 072364b622de73c87fd6386c5dc362d0
+
+Package: com.pxcex.hidspacedat
+Name: HidSpaceDat
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: hide the space time and date (NC & LS).
+Maintainer: pxcex
+Author: pxcex
+Size: 3476
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.hidspacedat_0.0.2_iphoneos-arm.deb
+MD5sum: 885ebc104165ea32ce4738880ed62209
+Depiction: https://paxcex.github.io/depictions/com.pxcex.hidspacedat/index.html
+
+Package: com.pxcex.alayers
+Name: Alayers
+Depends: mobilesubstrate
+Version: 0.0.1~BETA1
+Architecture: iphoneos-arm
+Description: the story alayers
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 75622
+Filename: debs//com.pxcex.alayers_0.0.2~BETA1_iphoneos-arm.deb
+MD5sum: 21c9cea01d47db46c358eaf75da02940
+Depiction: https://paxcex.github.io/depictions/com.pxcex.alayers/index.html
+
+Package: com.pxcex.spotlife
+Name: Spotlife
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Replace the Today Views Page with Spotlight on the Homescreen and Lockscreen.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 13206
+Filename: debs//com.pxcex.spotlife_0.0.2_iphoneos-arm.deb
+MD5sum: 76c79d7692131d68bcd9856214569fd3
+Depiction: https://paxcex.github.io/depictions/com.pxcex.spotlife/index.html
+
+Package: com.pxcex.WeChatSwipToScan
+Name: WeChatSwipToScan
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Tweak App WeChat. Swipe To Scan QR Code.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 5820
+Filename: debs//com.pxcex.WeChatSwipToScan_0.0.2-1+debug_iphoneos-arm.deb
+MD5sum: 2d25047d491a7a59188272b264eb077a
+
+Package: com.pxcex.taptaplockscreen
+Name: TapTap Lockscreen
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable Tap on Lockscreen Notifications to open.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 4506
+Filename: debs//com.pxcex.taptaplockscreen_0.0.2_iphoneos-arm.deb
+MD5sum: fe5221a9b3ded96ea587271b5f2fc2f4
+
+Package: com.pxcex.ccverticaly
+Name: CCVerticaly
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Vertical Toggle button & Media, Hide Text Button, and Show Action Text if media is not playing on Control Center IOS 10
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 13836
+Filename: debs//com.pxcex.ccverticaly_0.0.2_iphoneos-arm.deb
+MD5sum: 78d9d3fae24cf0aa4bbfa970f4e96172
+Depiction: https://paxcex.github.io/depictions/com.pxcex.ccverticaly/index.html
+
+Package: com.pxcex.Mmapscopydestination
+Name: MapsCopyDestination
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Adds an option to copy the destination on Apple Maps when in "directions mode". A common use case for me is opening an address with directions from another app, and needing to quickly extract the name of the destination.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 4708
+Filename: debs//com.pxcex.Mmapscopydestination_0.0.2_iphoneos-arm.deb
+MD5sum: eab4c7db2be7eb76fcddad47f8a70b1a
+Depiction: https://paxcex.github.io/depictions/com.pxcex.Mmapscopydestination/index.html
+
+Package: com.pxcex.bearhack
+Name: Bear Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bear Pro For Free! Bear is a beautiful, flexible writing app for crafting notes, prose, code and now sketches!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 2566
+Filename: debs//com.pxcex.bearhack_0.0.2_iphoneos-arm.deb
+MD5sum: 5e0116edd397eb4382bf8ca44b20b31a
+Depiction: https://paxcex.github.io/depictions/com.pxcex.bearhack/index.html
+SHA1: 747975d3dcff7a4c68ef6ee2534a0983642d50c4
+SHA256: 2493161162251367ad7cb7674796c02fb52465cd89c540c35d24495c8a16e72d
+
+Package: com.pxcex.ncnoplaying
+Name: NcNoPlaying
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Replace no Notifications on NC to the now playing song meta data title and artist
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 3800
+Filename: debs//com.pxcex.ncnoplaying_0.0.2_iphoneos-arm.deb
+MD5sum: 74f98904ab6db8458b45e8b27341fcd8
+Depiction: https://paxcex.github.io/depictions/com.pxcex.ncnoplaying/index.html
+
+Package: com.pxcex.nodocklabels10
+Name: NoDockLabels 10
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide Labels On Dock Icon. IOS 10 Only!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 2834
+Filename: debs//com.pxcex.nodocklabels10_0.0.2_iphoneos-arm.deb
+MD5sum: 5413792c23c8852f55df56ff7a91e9b4
+Depiction: https://paxcex.github.io/depictions/com.pxcex.nodocklabels10/index.html
+
+Package: com.pxcex.vpnproxymasterhack
+Name: VPN Proxy Master Hack
+Depends: mobilesubstrate
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description: Unlimited VPN VIP!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 77636
+Filename: debs//com.pxcex.vpnproxymasterhack_2.0.2_iphoneos-arm.deb
+MD5sum: c727a40bebe4f396ac6b7ae431ae3674
+Depiction: https://paxcex.github.io/depictions/com.pxcex.vpnproxymasterhack/index.html
+SHA1: 27fdec152a9b971bece6198bcbb71eb3eca6f50f
+SHA256: a3cc0d6406acefdc2ea491ffc537b95daeac833671adcbb2e32f9617432fa15b
+
+Package: com.pxcex.vscoxactive
+Name: VSCO X Active
+Depends: mobilesubstrate,
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: VSCO X permanent, Path from tweak LocallAPStore.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60136
+Filename: debs//com.pxcex.vscoxactive_0.0.4_iphoneos-arm.deb
+MD5sum: 390d2119229a1406bdb11e5367878c79
+SHA1: 80da368ad527b41e8b8b1b78f94bac616f849c25
+SHA256: 491c53792a4c895556cd361413b871e35c13aba44a3073141618f54d988c8adb
+Depiction: https://paxcex.github.io/depictions/com.pxcex.vscoxlocallapstore/index.html
+
+Package: com.pxcex.playgif
+Name: PlayGif
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: View GIFs animation in the stock Photos app!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 6690
+Filename: debs//com.pxcex.playgif_0.0.2_iphoneos-arm.deb
+MD5sum: b15133ea4fe52c30ac23e47b83f82c8d
+
+Package: com.pxcex.ccfloating
+Name: CCFloating
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Move the control center anywhere! Competible with CCNoFloating.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 2558
+Filename: debs//com.pxcex.ccfloating_0.0.2_iphoneos-arm.deb
+MD5sum: 33a987109301df30f7e9c3348e6f1520
+Depiction: https://paxcex.github.io/depictions/com.pxcex.ccfloating/index.html
+
+Package: com.pxcex.ibypass
+Name: iBypass
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Tweak Jailbreak Unlock iPhone with any passcode!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 3762
+Filename: debs//com.pxcex.ibypass_0.0.2_iphoneos-arm.deb
+MD5sum: 33005dec8cb4ff377650e61c77578bbd
+
+Package: com.pxcex.enloghtphotofoxpro
+Name: Enlight Photofox Pro
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Free Unlimited access.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 56816
+Filename: debs//com.pxcex.enloghtphotofoxpro_0.0.2_iphoneos-arm.deb
+MD5sum: 385dc6c3cca6162268d8e5ff88cb248b
+SHA1: a2532deefd68f51dd47d7c238f4823c2d38c07a3
+SHA256: 89bad196311261b82485952f784b996d915cd762fefe7f1c5f67a97ea2c9f24c
+Depiction: https://paxcex.github.io/depictions/com.pxcex.enloghtphotofoxpro/index.html
+
+Package: com.pxcexbetternethack
+Name: Betternet Premium Hack
+Depends: mobilesubstrate
+Version: 0.0.5
+Architecture: iphoneos-arm
+Description: Best vpn proxy Betternet Premium For Free
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60814
+Filename: debs//com.pxcexbetternethack_0.0.6_iphoneos-arm.deb
+MD5sum: 8495db0022b937c7956a3115db4cf46b
+SHA1: a852ec92f72c585f5592f1a9ba87881180bac2464
+SHA256: 8adba3628e105912538f5713cf05b939bf9ca9244d5cf4f3552a4d3baa87c1d4
+Depiction: https://paxcex.github.io/depictions/com.pxcex.betternethack/index.html
+
+Package: com.pxcex.autocadhack
+Name: AutoCAD Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: AutoCAD mobile app by Autodesk® Premium for Free.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 56984
+Filename: debs//com.pxcex.autocadhack_0.0.2_iphoneos-arm.deb
+MD5sum: 57051b719c61345e9dd8f914bfbcfc85
+SHA1: 484010a0b0f7a0682a2e49bbd4e2d75561bdede7
+SHA256: 2d3e36dd01df3c0855802dab5cb8c8cefd59768d4939224c69a52cb82779f5cd
+Depiction: https://paxcex.github.io/depictions/com.pxcex.autocadhack/index.html
+
+Package: com.pxcex.mixhack
+Name: MIX Hack
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: MIX - Photo Editor & Filters By PinGuo Inc. Free All Filter
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60222
+Filename: debs//com.pxcex.mixhack_1.0.2_iphoneos-arm.deb
+MD5sum: b5520fabd2b1f5a251f66103396490ea
+SHA1: 3c262078538639e9f3c38371deb53a21428ea05a
+SHA256: 1c1c2e74af7eee0413163bb44329830db7e81ef293c29e5a464ee1852fa34cd8
+Depiction: https://paxcex.github.io/depictions/com.pxcex.mixhack/index.html
+
+Package: com.pxcex.enlightvideoleaphack
+Name: Enlight Videoleap Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Free Unlimited Access.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 56880
+Filename: debs//com.pxcex.enlightvideoleaphack_0.0.2_iphoneos-arm.deb
+MD5sum: ac982d5536d51700e33539f793c343c8
+SHA1: 78274649ef4489bb3943fc5d0de00b453af555c1
+SHA256: 47d9c30efc67520b46b525deba438d126d84e2d2c8a0d7aa0b2a1ef48f5e0667
+Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightvideoleaphack/index.html
+
+
+Package: com.pxcex.enlightquickshot
+Name: Enlight Quickshot Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlimited Access.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 56878
+Filename: debs//com.pxcex.enlightquickshot_0.0.2_iphoneos-arm.deb
+MD5sum: 05a398eefbb3f14124692811a52dc276
+SHA1: ba402e79086dc99801c899c0d76dc30b3b789050
+SHA256: aeec4eb3c38ef3d05818766000d318c457d72cc35d5fbe9bfcca9cf703ff1efb
+Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightquickshot/index.html
+
+Package: com.pxcex.aflexloader
+Name: AFlexLoader
+Depends: mobilesubstrate, preferenceloader (>= 2.2), applist (>= 1.5.11)
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Permanently Hide Element With Applist base FLEX Loader (Developer Tools)
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 371304
+Filename: debs//com.pxcex.aflexloader_0.0.4_iphoneos-arm.deb
+MD5sum: 3497ec2f2f3c4b7bac6db394442394a0
+SHA1: ff09b33cef0ad4f228d3ddeeab229f7f692f6020
+SHA256: 9aba492a4227873a9d0da5c90937088542a571f1c092b208cbbe5a09f54c73cc
+Depiction: https://paxcex.github.io/depictions/com.pxcex.aflexloader/index.html
+
+Package: com.pxcex.jaktorhack
+Name: JakTor Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Jaktor - Pengingat Pajak Motor Unlimited Reminder dan Bye ADS.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 56784
+Filename: debs//com.pxcex.jaktorhack_0.0.2_iphoneos-arm.deb
+MD5sum: a03d42936473570e6ee6f7b508630eab
+Depiction: https://paxcex.github.io/depictions/com.pxcex.jaktorhack/index.html
+
+Package: com.pxcex.ongkoskirimnoads
+Name: OngkosKirim No ADS
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Ongkos Kirim & Cek Resi (App Indonesian) No Ads
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 56868
+Filename: debs//com.pxcex.ongkoskirimnoads_0.0.2_iphoneos-arm.deb
+MD5sum: c692ecbf8a52182fa7394487d0853042
+Depiction: https://paxcex.github.io/depictions/com.pxcex.ongkoskirimnoads/index.html
+
+Package: com.pxcex.gokeyboardhack
+Name: GoKeyboard Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlock All Store For Free!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 56462
+Filename: debs//com.pxcex.gokeyboardhack_0.0.2_iphoneos-arm.deb
+MD5sum: d1f7b79b057929a47d59c4eb437b308d
+SHA1: b3555d0b1e5a30ce3778f84872a6ea5255a41e36
+SHA256: 24931c7e378b318564636efe0c970f9bb561a2b5bb4f0035c99764e2e65799df
+Depiction: https://paxcex.github.io/depictions/com.pxcex.gokeyboardhack/index.html
+
+Package: com.pxcex.enlightpixaloophack
+Name: Enlight Pixaloop Hack
+Depends: mobilesubstrate
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description: Unlock One Time Purchase for Free.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 49896
+Filename: debs//com.pxcex.enlightpixaloophack_2.0.2_iphoneos-arm.deb
+MD5sum: 4dfaac6204e286c73dc11fdd15d2ef4d
+SHA1: 0ced332d3aa01a82badafa790fcbe06676a21f55
+SHA256: 27a2a77e0711148aef5a813ab177ac11714fa7ed8e58a63f6a2ff6f876203d7f
+Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightpixaloophack/index.html
+
+Package: com.pxcex.emulsio
+Name: Emulsio Hack
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Emulsio - Video Stabilizer Pro Pack 2.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60412
+Filename: debs//com.pxcex.emulsio_1.0.2_iphoneos-arm.deb
+MD5sum: d995c3f860bfeb6c3452f3d9ecbff055
+SHA1: 1f9e787c3d4a14dda6fd3cfbb7fa9d123d834017
+SHA256: c922c680b8f26825538fe8393b92e65ee746cb4c95145384decac650354abbac
+Depiction: https://paxcex.github.io/depictions/com.pxcex.emulsio/index.html
+
+Package: com.pxcex.musixmatchpremium
+Name: Musixmatch Premium
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Musixmatch Party Mode & Premium Subscribtion.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60776
+Filename: debs//com.pxcex.musixmatchpremium_1.0.2_iphoneos-arm.deb
+MD5sum: 67561391d4fe275508c48ca7ad6f2295
+SHA1: cc2eec76afe3fae10dbdf51f6ba531af24755918
+SHA256: 44aa911a111e89b17733d0e1231792fb050b4fb70e6f30e5ce10134a167d4910
+Depiction: https://paxcex.github.io/depictions/com.pxcex.musixmatchpremium/index.html
+
+Package: com.pxcex.over
+Name: OverHack
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Over Pro Subscription.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60114
+Filename: debs//com.pxcex.over_1.0.1_iphoneos-arm.deb
+MD5sum: 8a1da466f5070ba180cf78dbe83769f4
+SHA1: 05939d359ab22733eca6493699d5431653488d38
+SHA256: 568fbff5a215bedde8ef48b185da29417edbc7731f51055ca7ab815f1c20dff1
+Depiction: https://paxcex.github.io/depictions/com.pxcex.over/index.html
+
+Package: com.pxcex.rnifilmhack
+Name: RNI Films Hack
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: RNI Films Pack Unlock
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60060
+Filename: debs//com.pxcex.rnifilmhack_1.0.2_iphoneos-arm.deb
+MD5sum: f56a9be39a1eaf1c2ec824c1c70efa94
+SHA1: b5670ac0a25e9c880738d343a697560257132247
+SHA256: a4e17e2f35cc5a7d7472376400f45fb5193401e5f0c70398b1287d08361e56dd
+Depiction: https://paxcex.github.io/depictions/com.pxcex.rnifilmhack/index.html
+
+Package: com.pxcex.nightskyhack
+Name: Night Sky Hack
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Premium Subscription.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60384
+Filename: debs//com.pxcex.nightskyhack_1.0.2_iphoneos-arm.deb
+MD5sum: 70ba02c21cbc42921acaf7d1af979251
+SHA1: ff57d86f5f9f7545eaf133ab53e4350c37e72afd
+SHA256: 540fe5fd61186da10879e5a7dc9df1d0326856ccee0397c3dbbd7f31da6a3f19
+Depiction: https://paxcex.github.io/depictions/com.pxcex.nightskyhack/index.html
+
+Package: com.pxcex.videoshophack
+Name: Videoshop Hack
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Unlock Pro Version & All Clips Free
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60124
+Filename: debs//com.pxcex.videoshophack_1.0.2_iphoneos-arm.deb
+MD5sum: 55209f34f08c8a5963d9888859758354
+SHA1: 9fa669b98128b39339a679a57c66cb007992b99f
+SHA256: 70119f3e528ba0a22bbd53994d7f2823cd986e00dc638b73d08a59388de9e80a
+Depiction: https://paxcex.github.io/depictions/com.pxcex.videoshophack/index.html
+
+Package: com.pxcex.instanshack
+Name: Instans Hack
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Ingage Instans : Social Posts Pro Subscribe.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60174
+Filename: debs//com.pxcex.instanshack_1.0.2_iphoneos-arm.deb
+MD5sum: d7aeabb048d8a36fbf1f5f7768a2fa9b
+SHA1: 54794e34361d73a1c9315481ee680d878d12b5be
+SHA256: ba5fbf819d833e75353b61b7d1cbc8d3c9dce2391858d69cad73da4710e55baa
+Depiction: https://paxcex.github.io/depictions/com.pxcex.instanshack/index.html
+
+Package: com.pxcex.djayhack
+Name: djay Hack
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Full Access to PRO
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60258
+Filename: debs//com.pxcex.djayhack_1.0.2_iphoneos-arm.deb
+MD5sum: 1b5c2b690bf004b4517d3e09dc1895ad
+SHA1: b6982c87ac77af5941cc733689fb8fce4caf8492
+SHA256: 3d3094dabae536981326607c3e1dea153997a5a0bf93ca5169e069dd467cab40
+Depiction: https://paxcex.github.io/depictions/com.pxcex.djayhack/index.html
+
+Package: com.pxcex.beatmakerhack
+Name: Beat Maker Hack
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Unlock Pro for Free
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 63734
+Filename: debs//com.pxcex.beatmakerhack_1.0.2_iphoneos-arm.deb
+MD5sum: 25602fdb5f03b09e4af32e1a3fd25ee9
+Depiction: https://paxcex.github.io/depictions/com.pxcex.beatmakerhack/index.html
+
+Package: com.pxcex.tadaahdhack
+Name: TADAA HD Hack
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Tadaa Pro Pack
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60478
+Filename: debs//com.pxcex.tadaahdhack_1.0.2_iphoneos-arm.deb
+MD5sum: 66eff34913dcce6c8dd5da30b87fbd1b
+SHA1: 71bc2274eda58747bbdb5bdd43a1aa47dbb9093b
+SHA256: d0b6a930e94fcb0282badd512b3ec17a1d55c552f1b2aba592cdd8659a957f28
+Depiction: https://paxcex.github.io/depictions/com.pxcex.tadaahdhack/index.html
+
+Package: com.pxcex.igfeed
+Name: IGFeed
+Depends: mobilesubstrate
+Version: 0.0.5
+Architecture: iphoneos-arm
+Description: New Design Horizontal Feed Instagram.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 3800
+Filename: debs//com.pxcex.igfeed_0.0.6_iphoneos-arm.deb
+MD5sum: 1857f5ba2c35229713029d6a1f261bbe
+SHA1: 84457c6596b40fd83d899283c6f62811b4a7ef06
+SHA256: cc1f3c77372acda6ee47ed9cbe071e0fe700372fce40de916e5635adeda21af7
+Depiction: https://paxcex.github.io/depictions/com.pxcex.igfeed/index.html
+
+Package: com.pxcex.igmusic
+Name: IGMusic
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Instagram Music Available in All Region.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 3058
+Filename: debs//com.pxcex.igmusic_0.0.2_iphoneos-arm.deb
+MD5sum: 52d162a0997bd61b6d6faae8812dee78
+SHA1: 5d2f522cff9c8c1adf5d8fa59a381fd0d4f226f4
+SHA256: e2b928f4c99ee0486bc0613ccc13a323954dd547499151a706511d9f25a591d3
+Depiction: https://paxcex.github.io/depictions/com.pxcex.igmusic/index.html
+
+Package: com.pxcex.vuehack
+Name: VUE Hack
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Free all store.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60072
+Filename: debs//com.pxcex.vuehack_1.0.2_iphoneos-arm.deb
+MD5sum: b1e3b39839b4395b7d78ecb546db6cc9
+SHA1: 85a20315942d679e27d743b8aa10dd31d657cb44
+SHA256: 9710a5b3b0806b16a39cdd13ec84a66db5dbd10a8a870626c5396e7f3aa7399f
+Depiction: https://paxcex.github.io/depictions/com.pxcex.vuehack/index.html
+
+Package: com.pxcex.forcetouchautodismiss
+Name: ForceTouch Auto Dismiss
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Auto Dismiss Force Touch (3D Touch).
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Size: 3810
+Tag: purpose::extension, compatible_max::ios12.2
+Filename: debs//com.pxcex.forcetouchautodismiss_0.0.2_iphoneos-arm.deb
+MD5sum: 66cd434ef1888899e044053a1c670fb1
+
+Package: com.pxcex.record.music
+Name: RecordMusic
+Depends: mobilesubstrate
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Allows you to play sounds Apple Music while screen recording or exit the music app. Compatible IOS 12 Only
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60220
+Filename: debs//com.pxcex.record.music_0.0.4_iphoneos-arm.deb
+MD5sum: 4d0dca1351820350792a2d33ac6a2326
+SHA1: 18bcca1ecfb523e39907e6d3dc1cfa4003f5051b
+SHA256: c30fcf52c4bba57339fa361bac0d5c26284fe398ebd9a018669f505e8435fe5b
+
+Package: com.pxcex.browserwindow12
+Name: BrowserWindow 11/12
+Depends: mobilesubstrate,libactivator (>= 1.9.13~beta4), firmware (>= 11.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Internet everywhere with Activator.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 91134
+Filename: debs//com.pxcex.browserwindow12_1.0.1_iphoneos-arm.deb
+MD5sum: 576c120a078d1539a4adf25454905eed
+SHA1: 38da792bd969f5719c27d2a0fb249e37975080c5
+SHA256: c017696e815e357a046ce68218b1f252dfa4b86d7764984f5fedb91579130d92
+Depiction: https://paxcex.github.io/depictions/com.pxcex.browserwindow12/index.html
+
+Package: com.pxcex.bannercopied
+Name: BannerCopied
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: a simple tweak Allow Copy your notifications to paste later.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 6638
+Filename: debs//com.pxcex.bannercopied_0.0.2_iphoneos-arm.deb
+MD5sum: 1118480d673dca0dd4d53474786fe1c8
+SHA1: e4714d01f75043ef3454ad1d839a94fca981bc57
+SHA256: c519a7a287b75b373190a83c9be06714a1affbfcdb5e67fa48ddb310a5eab882
+Depiction: https://paxcex.github.io/depictions/com.pxcex.bannercopied/index.html
+
+Package: com.pxcex.classicfilter
+Name: ClassicFilter12
+Depends: mobilesubstrate, firmware(>=12.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable old photo filters for stock Photo App.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 2866
+Filename: debs//com.pxcex.classicfilter_0.0.2_iphoneos-arm.deb
+MD5sum: 609047c2b1e0434025a8d0c5d0768ed0
+Depiction: https://paxcex.github.io/depictions/com.pxcex.classicfilter/index.html
+
+Package: com.pxcex.labelcopy
+Name: LabelCopy
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Allow Triple Tap on UILabel to Copy.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 5856
+Filename: debs//com.pxcex.labelcopy_0.0.2_iphoneos-arm.deb
+MD5sum: c8fb8a5777bacc2f1c386943e8f75b4e
+Depiction: https://paxcex.github.io/depictions/com.pxcex.labelcopy/index.html
+
+Package: com.pxcex.ncbattery
+Name: NCbattery %
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Show Battery Percentage on NC/LS
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 6564
+Filename: debs//com.pxcex.ncbattery_0.0.2_iphoneos-arm.deb
+MD5sum: fe3f0a95aa71981fcabafac970b40aaf
+Depiction: https://paxcex.github.io/depictions/com.pxcex.ncbattery/index.html
+
+Package: com.pxcex.betternav
+Name: BetterNav 12
+Depends: mobilesubstrate, applist
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Better Navigation Bar 12 give you Small Bar and hide Navigation Bar when scroll down. requires Tweak AppList for activate apps.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 18390
+Filename: debs//com.pxcex.betternav_0.0.2_iphoneos-arm.deb
+MD5sum: b71269dd45620866f0759f1a2959929f
+SHA1: bef630d5809515d9158a284b4c3caf42f8361238
+SHA256: dca208794cbfaa22af6aa1e65e8cc69d9ff4bfd5df006c252ef9cbd5e7e22460
+Depiction: https://paxcex.github.io/depictions/com.pxcex.betternav/index.html
+
+Package: com.pxcex.igmusicplus
+Name: IGMusicPlus
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: create custom images & videos from gallery for music sharing stories.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 2726 
+Filename: debs//com.pxcex.igmusicplus_0.0.2_iphoneos-arm.deb
+MD5sum: be86c47903d953572aa8458929f65e5e
+SHA1: 550727f2758186ae8f08a914d06587e29d17fd98
+SHA256: cc452b6a349571677a050fbe5b010d658a7d22a7f32b56fdfb4d8b7e85aadce0
+Depiction: https://paxcex.github.io/depictions/com.pxcex.igmusicplus/index.html
+
+Package: com.pxcex.cydia3dtouch
+Name: Cydia3DTouch 12
+Depends: mobilesubstrate, firmware (>= 12.0)
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 14486 
+Filename: debs//com.pxcex.cydia3dtouch_0.0.4_iphoneos-arm.deb
+MD5sum: 22d0537549e0fdcd0a77b6dccb4d28e9
+Depiction: https://paxcex.github.io/depictions/com.pxcex.cydia3dtouch/index.html
+
+Package: com.pxcex.igbiometrylogin
+Name: IGBiometryLogin
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enabled Apple Touch ID/Face ID logs you into your account using fingerprint or faceid so you won't need to enter your password.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 5102 
+Filename: debs//com.pxcex.igbiometrylogin_0.0.2_iphoneos-arm.deb
+MD5sum: baedf9a8a8014114599368dc14d76178
+SHA1: 1c6a507e5d41ecb953d1ff35d9091b67f2935e03
+SHA256: 44daffc00c617f3dfde143bad59832817f9d4bfd36fb47cdbf689d2406b731ae
+Depiction: https://paxcex.github.io/depictions/com.pxcex.igbiometrylogin/index.html
+
+
+Package: com.pxcex.safesettings
+Name: SafeSettings
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simple Tweak Disable Touch Gesture OTA and Reset All Setting entries in preferences.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 4960 
+Filename: debs//com.pxcex.safesettings_0.0.2_iphoneos-arm.deb
+MD5sum: 9e8797f26faa3a2b9e697d50a8ebc1eb
+SHA1: fe3f93b0798763785dcfcc87c50acf40c4c19d97
+SHA256: a129b155d8db1bcc096ed353cc80199939284da4c45453d9e6d1347d67eeeba7
+Depiction: https://paxcex.github.io/depictions/com.pxcex.safesettings/index.html
+
+Package: com.pxcex.cleanerforighack
+Name: Cleaner for IG Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlock Pro Version.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 58836 
+Filename: debs//com.pxcex.cleanerforighack_0.0.2_iphoneos-arm.deb
+MD5sum: f75417e8d84548e840035bdc28188d1f
+SHA1: 276d1200308446f2b3761cecf82b2b903f3e6abc
+SHA256: 4204c070a5548a2b7f595a9af22e4b7e010e318a787d8d4e0817fba898cb2b9b
+Depiction: https://paxcex.github.io/depictions/com.pxcex.cleanerforighack/index.html
+
+Package: com.pxcex.calmhack
+Name: Calm App Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Subscription Life Time!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 58848 
+Filename: debs//com.pxcex.calmhack_0.0.2_iphoneos-arm.deb
+MD5sum: 6aed40118ff2d1f5de59b2656707b94c
+SHA1: a7e5397137606c96879b440e5bfab30e0a717eb3
+SHA256: 18fd64cdd90a57b22ff144b3d5d3b87469a4a1c10bd930bffb29f314473999b6
+Depiction: https://paxcex.github.io/depictions/com.pxcex.calmhack/index.html
+
+Package: com.pxcex.adoberushhack
+Name: AdobeRushCC hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Subscription Export Unlimited!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 59190 
+Filename: debs//com.pxcex.adoberushhack_0.0.2_iphoneos-arm.deb
+MD5sum: 05f1386beb99d1a556842a140fb9a4a6
+SHA1: 3ab9ccfcc974bad2e903af0acc22d83c30a00762
+SHA256: 908879d0cb282233b1baa45eb571b9fd7210208a1b9a1c07f8c53268fd7ca567
+Depiction: https://paxcex.github.io/depictions/com.pxcex.adoberushhack/index.html
+
+Package: com.pxcex.captivatehack
+Name: Captivate for IG Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlock Pro Version.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 58774 
+Filename: debs//com.pxcex.captivatehack_0.0.2_iphoneos-arm.deb
+MD5sum: f9dd1d3c4484befa8c054cfa690bd2fb
+SHA1: 3e045e6045a70da5c90855f0b5977b7b5859b117
+SHA256: 847517562202df0e0aae939ad0f37046d316618a57f0d79512d8e21706e85a72
+Depiction: https://paxcex.github.io/depictions/com.pxcex.captivatehack/index.html
+
+Package: com.reporthack
+Name: Reports+ For Instagram Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: InstaReport Pro Life Time!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 58784 
+Filename: debs//com.reporthack_0.0.2_iphoneos-arm.deb
+MD5sum: 645af71c4fcac0c8a98ce34ade2794b7
+SHA1: 155b117270800e76a14995f11125f4f65207ae46
+SHA256: e90ebf7cba436d58b59932865f4d43bb7418a39ee457d99953f34c4f9a975536
+Depiction: https://paxcex.github.io/depictions/com.reporthack/index.html
+
+Package: com.pxcex.lifecyclehack
+Name: Life Cycle Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Premium Feature with Online Backup!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 58726 
+Filename: debs//com.pxcex.lifecyclehack_0.0.2_iphoneos-arm.deb
+MD5sum: fddd7891f37aaec95b2b30375f278077
+SHA1: 254f1b10579427a957e268b5765b978041ad4356
+SHA256: 6a996af105fea94a22d4ffd7ed97323a6813d58b6e9d23a11db740b0d303f73a
+Depiction: https://paxcex.github.io/depictions/com.pxcex.lifecyclehack/index.html
+
+Package: com.pxcex.picsarthack
+Name: PicsArt Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: PicsArt Gold.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 59222 
+Filename: debs//com.pxcex.picsarthack_0.0.2_iphoneos-arm.deb
+MD5sum: bc390e0e8068025760e6fd5a6455e1c2
+SHA1: 8dafdce902b18b1ea8d749dbe496a3e1357a9c27
+SHA256: 332ed4a682bc7596786bc23b6ff3c32c858f28d8828e9754cfef699a02130fa5
+Depiction: https://paxcex.github.io/depictions/com.pxcex.picsarthack/index.html
+
+Package: com.pxcex.piccollagehack
+Name: PicCollage Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: VIP Life Time!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 59514 
+Filename: debs//com.pxcex.piccollagehack_0.0.2_iphoneos-arm.deb
+MD5sum: a0f6882c12cd0ad776f65aed7df37736
+SHA1: 61b0a75407ea0a9eb41c9e5733151f15b3d6ca48
+SHA256: 8b4027d50f0896ab418a18f29779418820fab0eeea744df8f3cc96d3901b5e38
+Depiction: https://paxcex.github.io/depictions/com.pxcex.piccollagehack/index.html
+
+Package: com.pxcex.quizlitehack
+Name: Quizlet Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlocks all premium features one the Quizlet App from the AppStore
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 59630 
+Filename: debs//com.pxcex.quizlitehack_0.0.2_iphoneos-arm.deb
+MD5sum: ad0b4b45934a8225bbc60b8baa374b99
+SHA1: fc5cf570f60586e9e379ca198fb218386b69a800
+SHA256: c1b812010dc05d36e83feb4852522656a9afc4a5565a634d31b5ed1a52a115e1
+Depiction: https://paxcex.github.io/depictions/com.pxcex.quizlitehack/index.html
+
+Package: com.pxcex.alltrailshack
+Name: AllTrails Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Pro Lifetime
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 59022 
+Filename: debs//com.pxcex.alltrailshack_0.0.2_iphoneos-arm.deb
+MD5sum: 1f40c7af0ebfd12959448d809e0d9a64
+SHA1: cf8d6f0083ead1c74b04441dde32bd1d6b53f7f7
+SHA256: ba5741f99668ff442fc3caadecb62ca04292595552509fb6e8b44e295bf25d25
+Depiction: https://paxcex.github.io/depictions/com.pxcex.alltrailshack/index.html
+
+Package: com.pxcex.camera360hack
+Name: Camera360 Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: VIP Lifetime!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 59900 
+Filename: debs//com.pxcex.camera360hack_0.0.2_iphoneos-arm.deb
+MD5sum: 14940e678f4f03db6af9836b59136d57
+SHA1: a80c5c3b7d52a40b105b118e733d88e0f585142c
+SHA256: e21d6a24fbe3d870622ded73d3ae4d88883a9d37312fa59525aac46385c86b27
+Depiction: https://paxcex.github.io/depictions/com.pxcex.camera360hack/index.html
+
+Package: com.pxcex.igdirectstickers
+Name: IGDM Stickers
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Stickers on Direct Messaging.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 3696  
+Filename: debs//com.pxcex.igdirectstickers_0.0.2_iphoneos-arm.deb
+MD5sum: 2a7743ae91eadd593c6d2a764267eb41
+SHA256sum : 150159a08a333b5aca5143668cc5e72854f198691c991405d9d0b5e876cb00b8
+SHA1: f6042f0ab4de7675ff13d1728320cf43689b045d
+Depiction: https://paxcex.github.io/depictions/com.pxcex.igdirectstickers/index.html
+
+Package: com.pxcex.fitetvhack
+Name: FITE TV Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Free lifetime Stream MMA, Boxing and Pro Wrestling, Watch Combat Sports Live.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 59334  
+Filename: debs//com.pxcex.fitetvhack_0.0.2_iphoneos-arm.deb
+MD5sum: 5316c73c542b81b98cef669b83cb57ed
+SHA1: 747a7bb92e810578424175fd6b785c4cc35cc8e4
+SHA256: ccaaf14fea261a60a366c3dd86652c1c19b915ebaf020f7c52850d429868c996
+Depiction: https://paxcex.github.io/depictions/com.pxcex.fitetvhack/index.html
+
+Package: com.pxcex.linethemehack
+Name: Line Theme Hack
+Depends: mobilesubstrate
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description: Free All Theme Store.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 58998  
+Filename: debs//com.pxcex.linethemehack_2.0.2_iphoneos-arm.deb
+MD5sum: 04393521fe6ec2c4368255b9e3de0261
+SHA1: 2a1c60a801bf1001f4e82d585d4f34f17cafafe0
+SHA256: 3c29e2bbfecd453db17f2b4f2a322932392980fd4fb025bf191b6ad9162725d3
+Depiction: https://paxcex.github.io/depictions/com.pxcex.linethemehack/index.html
+
+Package: com.pxcex.guitartabsplus
+Name: Guitar Tabs Plus
+Depends: mobilesubstrate
+Version: 0.0.1~beta1
+Architecture: iphoneos-arm
+Description: Features Plus : Unlock Tools, Autoscroll & Instruments for Official Music.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 62202  
+Filename: debs//com.pxcex.guitartabsplus_0.0.1~beta2_iphoneos-arm.deb
+MD5sum: e2647cd80d9138d2444f718d5883b6ae
+SHA1: 240a377f8edd58cfe31df5ae64540d8f0cd90292
+SHA256: 9ae333ddc51b4e39c8e530284d3dbacac410a5134971b6253befd6f4a0533aca
+Depiction: https://paxcex.github.io/depictions/com.pxcex.guitartabsplus/index.html
+
+Package: com.pxcex.inmessageplus
+Name: InMessage Plus
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlock Feature VIP Only.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 77198  
+Filename: debs//com.pxcex.inmessageplus_0.0.2_iphoneos-arm.deb
+MD5sum: 80191f93e9864a4e654931a15d4abfb3
+SHA1: 262230a287683ba2b7d84922f47c30fbc464ef41
+SHA256: c055c8f779840d07f6d4f7978b78f278926def9e2f95b5a9b1c43b3ca685df32
+Depiction: https://paxcex.github.io/depictions/com.pxcex.inmessageplus/index.html
+
+Package: com.pxcex.myprivacyhack
+Name: MyPrivacy Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlimited Privacy lifetime.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 73194  
+Filename: debs//com.pxcex.myprivacyhack_0.0.2_iphoneos-arm.deb
+MD5sum: 628eeab98b4a994437b35544b39d5ed5
+SHA1: 9c29c254545b86c7c0d00f8aa45a5d8ce951ffa3
+SHA256: ce023ed95615328922f16f60ae3d0f8f3428a2b6c6e69cec66f8d3ded63d6423
+Depiction: https://paxcex.github.io/depictions/com.pxcex.inmessageplus/index.html
+
