@@ -13,6 +13,7 @@ SHA1sum: a11d9dc7ecb742bc23069a34da1727e988bdf6f4
 SHA256sum : da970af4ae773671ab0ed28124cfd9d755d231ecd56a12fa9eac3bf0c7225685
 Filename: debs//com.pxcex.jooxpremium_4.0.5_iphoneos-arm.deb
 Depiction: https://paxcex.github.io/depictions/com.pxcex.jooxpremium/index.html
+SileoDepiction : https://github.com/paxcex/paxcex.github.io/blob/master/depictions/user/tamplates/templates/default.json
 
 Package: com.pxcex.everalbumplus
 Name: Ever Album Plus
