@@ -2171,20 +2171,3 @@ SHA1: 87cda3d176a2214a5027b87772dddf519594ff23
 SHA256: 3c9a14989220a32dbefe7065aaac18486b7f468ce0821a6fb4abe8826710ba87
 Depiction: https://paxcex.github.io/depictions/com.pxcex.hotspotshildhack/index.html
 
-Package: com.pxcex.manlyhack
-Name: Manly Hack
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Premium lifetime.
-Maintainer: pxcex
-Author: pxcex
-Section: Tweaks
-Tag: purpose::extension, compatible_max::ios12.2
-Size: 75946  
-Filename: debs//com.pxcex.manlyhack_0.0.2_iphoneos-arm.deb
-MD5sum: 592faf6329e0d9674c39a515b5f0438f
-SHA1: dec8a3e5ac96e553e0e64608ff908d8b76310902
-SHA256: 7fe4afc2b9f949850650f64e331e6e5aa2f885aabe99b856e51cbf00b7f4e150
-Depiction: https://paxcex.github.io/depictions/com.pxcex.manlyhack/index.html
-
