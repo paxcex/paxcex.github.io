@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+      "url": "https://paxcex.github.io/depictions/com.pxcex.jooxpremium/screenshots/1.PNG",
+      "title": "Joox Premium",
+      "package": "com.pxcex.jooxpremium",
+      "hideShadow": false
+    }
+  ]
+}
