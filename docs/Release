@@ -1,0 +1,12 @@
+Origin: pxcex repo
+Label: pxcex repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: pxcex repo
+
+SHA256:
+ 6adf2fe5d821f447e168d02e713688bc1d28c198309f5e276f2e9c5867db6031 582 Packages.bz2
+ 60f8a731055f229702d93ca073ad6deb622b6593e768120185e361bfe226073e 568 Packages.xz
