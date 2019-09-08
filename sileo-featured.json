@@ -8,6 +8,12 @@
       "title": "Joox Premium",
       "package": "com.pxcex.jooxpremium",
       "hideShadow": false
-    }
+    },
+      {
+         "url":"https://github.com/paxcex/paxcex.github.io/blob/master/depictions/com.pxcex.enlightpixaloophack/screenshots/1.PNG",
+         "title":"Enlight Pixaloop",
+         "package":"com.pxcex.enlightpixaloophack",
+         "hideShadow":false
+      },
   ]
 }
