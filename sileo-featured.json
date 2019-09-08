@@ -4,6 +4,12 @@
   "itemCornerRadius": 10,
   "banners": [
     {
+      "url": "http://ban-game-2.gamewise.co/Focos-banner-866418-full.png",
+      "title": "Focos Hack",
+      "package": "com.pxcex.focos",
+      "hideShadow": false
+    },
+    {
       "url": "https://www.unbox.id/wp-content/uploads/2018/02/Langganan-JOOX-VIP-Kini-Bisa-Lewat-Potong-Pulsa.jpg",
       "title": "Joox Premium",
       "package": "com.pxcex.jooxpremium",
