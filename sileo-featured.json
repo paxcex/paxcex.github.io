@@ -15,5 +15,12 @@
          "package":"com.pxcex.enlightpixaloophack",
          "hideShadow":false
       },
+
+        {
+           "url":"https://o.aolcdn.com/images/dims?quality=85&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F1d8d1b4ae0e3095a29d2c8b59bb4f885%2F205752810%2FTwitterrific_macOS_logo.jpg&client=amp-blogside-v2&signature=75a9da2cb2c0c99f6cbedc372709b8fc9d765ce5",
+           "title":"Twitterrific 5",
+           "package":"com.pxcex.twitterrific5hack",
+           "hideShadow":false
+        },
   ]
 }
