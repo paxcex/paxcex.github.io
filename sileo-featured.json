@@ -4,12 +4,6 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-      "url": "https://i1.wp.com/www.uk24.co/wp-content/uploads/2019/09/Schermata-2019-09-05-alle-15.48.59.jpg?fit=591%2C214&ssl=1",
-      "title": "Focos",
-      "package": "com.pxcex.focos",
-      "hideShadow": false
-    },
-    {
       "url": "https://9to5mac.com/wp-content/uploads/sites/6/2019/08/guardian-firewall-vpn-ios-app.png?w=1600",
       "title": "Guardian Firewall",
       "package": "com.pxcex.guardianhack",
@@ -19,6 +13,12 @@
       "url": "https://www.unbox.id/wp-content/uploads/2018/02/Langganan-JOOX-VIP-Kini-Bisa-Lewat-Potong-Pulsa.jpg",
       "title": "Joox Premium",
       "package": "com.pxcex.jooxpremium",
+      "hideShadow": false
+    },
+    {
+      "url": "https://i1.wp.com/www.uk24.co/wp-content/uploads/2019/09/Schermata-2019-09-05-alle-15.48.59.jpg?fit=591%2C214&ssl=1",
+      "title": "Focos",
+      "package": "com.pxcex.focos",
       "hideShadow": false
     },
       {
