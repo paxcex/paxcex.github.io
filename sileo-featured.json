@@ -4,6 +4,12 @@
   "itemCornerRadius": 10,
   "banners": [
     {
+       "url":"https://i.ytimg.com/vi/98flVeX1odM/maxresdefault.jpg",
+       "title":"DU Recorder Hack",
+       "package":"com.pxcex.durecorderhack",
+       "hideShadow":false
+    },
+    {
       "url": "https://9to5mac.com/wp-content/uploads/sites/6/2019/08/guardian-firewall-vpn-ios-app.png?w=1600",
       "title": "Guardian Firewall",
       "package": "com.pxcex.guardianhack",
