@@ -4,6 +4,12 @@
   "itemCornerRadius": 10,
   "banners": [
     {
+       "url":"https://planner5d.com/s/6/images/promo/platforms/slider/ios@2x.jpg",
+       "title":"Planner 5D Hack",
+       "package":"com.pxcex.plannerhack",
+       "hideShadow":false
+    },
+    {
        "url":"https://i.ytimg.com/vi/98flVeX1odM/maxresdefault.jpg",
        "title":"DU Recorder Hack",
        "package":"com.pxcex.durecorderhack",
