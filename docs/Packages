@@ -1,1 +1,20 @@
+Package: com.pxcex.jooxpremium
 Version: 4.0.7
+Architecture: iphoneos-arm
+Maintainer: pxcex <ipxcex@icloud.com>
+Depends: firmware (>=8), mobilesubstrate
+Filename: ./pkg/com.pxcex.jooxpremium.deb
+Size: 134296
+MD5sum: b9dcaa63a3f214826c7e2c14c3b6958a
+SHA1: eb9b909fceed8ffff811e014a12547ddc558543d
+SHA256: 8547e57e26155981a90571abb2340d2eebccc5e605b907309e419012e959f0be
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: VIP Music, Download songs and listen to them Offline (320kbps) HI-FI, DTS Active, Enjoy Music!
+Author: pxcex <ipxcex@icloud.com>
+Depiction: https://paxcex.github.io/depiction/web/com.pxcex.jooxpremium.html
+Icon: https://paxcex.github.io/assets/com.pxcex.jooxpremium/icon.png
+Moderndepiction: https://paxcex.github.io/depiction/native/com.pxcex.jooxpremium.json
+Name: Joox Premium
+Sileodepiction: https://paxcex.github.io/depiction/native/com.pxcex.jooxpremium.json
+
